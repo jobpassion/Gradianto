@@ -37,10 +37,10 @@
     "Tree.background": "#2c2c3e",
 
     "ActionButton": {
-      "hoverBackground": "#6d55bd",
-      "pressedBackground": "#4b3a81",
-      "hoverBorderColor": "#6d55bd",
-      "pressedBorderColor": "#4b3a81"
+      "hoverBackground": "#4b3a81",
+      "hoverBorderColor": "#4b3a81",
+      "pressedBackground": "#6d55bd",
+      "pressedBorderColor": "#6d55bd"
     },
     "Borders": {
       "color": "#1b092f",
@@ -106,9 +106,9 @@
     },
 
     "EditorTabs": {
-      "underlinedTabBackground": "#3d3d56",
+      "underlinedTabBackground": "#39288b",
       "selectedBackground": "#3d3d56",
-      "underlineColor": "#44346e"
+      "underlineColor": "#d9d9d9"
     },
 
     "Link": {
