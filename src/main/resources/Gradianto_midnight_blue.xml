@@ -176,7 +176,12 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5d69bb" />
+        <option name="FOREGROUND" value="b18d47" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="757db3" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -404,11 +409,6 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3b35" />
-      </value>
-    </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="757db3" />
       </value>
     </option>
   </attributes>
