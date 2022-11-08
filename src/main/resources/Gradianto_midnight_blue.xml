@@ -161,7 +161,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="757db3" />
+        <option name="FOREGROUND" value="717ed3" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -404,6 +404,11 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3b35" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="757db3" />
       </value>
     </option>
   </attributes>
