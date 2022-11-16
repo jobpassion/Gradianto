@@ -6,7 +6,7 @@
     <option name="DELETED_LINES_COLOR" value="524c76" />
     <option name="DOCUMENTATION_COLOR" value="33364a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="292a4a" />
-    <option name="GUTTER_BACKGROUND" value="262639" />
+    <option name="GUTTER_BACKGROUND" value="101539" />
     <option name="INDENT_GUIDE" value="302b37" />
     <option name="INFORMATION_HINT" value="39354d" />
     <option name="LINE_NUMBERS_COLOR" value="b1b7bc" />
@@ -362,7 +362,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
-        <option name="BACKGROUND" value="1a1a25" />
+        <option name="BACKGROUND" value="1C0232" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

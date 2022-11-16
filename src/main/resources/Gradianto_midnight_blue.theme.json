@@ -5,7 +5,7 @@
   "editorScheme": "/Gradianto_midnight_blue.xml",
   "ui": {
     "*": {
-      "background": "#282839",
+      "background": "#101539",
       "foreground": "#d4d4d4",
 
       "infoForeground": "#00d66e",
@@ -34,7 +34,7 @@
       "Log.Commit.currentBranchBackground": "#3e2e61",
       "Log.Commit.unmatchedForeground": "#7f80a8"
     },
-    "Tree.background": "#2c2c3e",
+    "Tree.background": "#1C0232",
 
     "ActionButton": {
       "hoverBackground": "#4b3a81",
