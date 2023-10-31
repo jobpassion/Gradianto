@@ -9,7 +9,6 @@
       "foreground": "#d4d4d4",
 
       "infoForeground": "#00d66e",
-
       "selectionBackground": "#544092",
       "selectionForeground": "#e2e2e2",
       "selectionInactiveBackground": "#48387e",
@@ -55,8 +54,8 @@
       "default.focusColor": "#5631a2",
       "disabledBorderColor" : "#442781",
       "default": {
-        "startBackground": "#544c91",
-        "endBackground": "#544c91",
+        "startBackground": "#635ed2",
+        "endBackground": "#635ed2",
         "startBorderColor": "#544c91",
         "endBorderColor": "#442781",
         "focusedBorderColor": "#5631a2",
